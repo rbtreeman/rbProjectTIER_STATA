@@ -11,6 +11,6 @@ analysis you reported in your paper should be contained in one of the
 original data files in your `original-data` folder.
 
 Every original data file should be saved in exactly the format it was 
-in when you first obtained it.You may choose to change the name of an 
+in when you first obtained it. You may choose to change the name of an 
 original data file when you save it in your `original-data` folder, but 
 other than that the file should not be modified in any way.
