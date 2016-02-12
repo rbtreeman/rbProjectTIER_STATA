@@ -19,8 +19,8 @@ There are two cases to consider:
 
 (1) The original data file is in a format that R can open or import.
 
-This case obviously applies if the original data file is in R’s 
-`.Rdata` format.
+This case obviously applies if the original data file is in Stata’s 
+`.dta` format. Files in `.dta` format can be opened with Stata’s `use` command. 
 
 This case also applies to files that are not in `.Rdata` format, but 
 that can be opened with R. For example, R’s `read.csv()` command can 
