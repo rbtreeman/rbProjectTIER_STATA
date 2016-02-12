@@ -1,7 +1,5 @@
 # The TIER Documentation Protocol v2.0 for STATA
 
-## NOTE: THESE INSTRUCTIONS NEED TO REVIEWED TO MAKE SURE ALL LANGUAGE IS STATA (NOT R) SPECIFIC
-
 ## Overview 
 
 The TIER Documentation Protocol provides instructions for assembling a 
@@ -16,18 +14,20 @@ reported in your paper.
 
 ## ProjectTIER_STATA repository
 
-The instructions presented in this repository are written for users of Stata. 
-In a few places, they use Stata-specific terminology. For example, we refer to 
-command files as do files, and their names are followed by the .do 
-extension. But the Stata-specific terminology that appears in these 
-instructions can be easily translated to any of the major statistical 
-packages (such as SPSS, SAS, R, Matlab, etc.) or other programming 
-languages.
+The instructions presented here are written for users of Stata. They have 
+been tested with version 14 of Stata, but they should also work with other 
+versions. In a few places, these instructions use Stata-specific terminology. 
+For example, we refer to command files as do-files, and their names are 
+followed by the `.do` extension. But the Stata-specific terminology that
+appears in these instructions can be easily translated to any of the major 
+statistical packages (such as SPSS, SAS, R or Matlab) or other programming 
+languages. 
 
 ## Getting started
 
-To get started you can fork or clone this repository which will create 
-a copy of the folder structure recommended in the Project TIER protocol
+To get started you can fork and then clone this repository which will create 
+a copy of the folder structure recommended in the Project TIER protocol.
+
 Below we describe how to organize your analysis according to the 
 Project TIER protocol, i.e. which components of your analysis should go 
 into which folder.
