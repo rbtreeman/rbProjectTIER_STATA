@@ -58,8 +58,8 @@ rendered properly on GitHub, and any changes can be tracked. It should
 be named `data_appendix.md`. This file should be stored in the 
 `analysis-data` folder.
 
-In addition to the Data Appendix itself, you should also save an R 
-script that generates all the output presented in the Data Appendix. 
+In addition to the Data Appendix itself, you should also save a do-file 
+that generates all the output presented in the Data Appendix. 
 
-This script should be named `data_appendix.R`, and it should be stored 
+This do-file should be named data_appendix.do, and it should be stored 
 in your `command-files` folder.
